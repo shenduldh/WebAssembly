@@ -31,21 +31,23 @@ wasm可以通过由c或c++（python等其他语言也可以）编写的代码文
 可以使用其他语言所具有的特性在浏览器上进行开发。
 
 ```bash
-	 Clang	    Fastcomp    Binaryen
+	Clang		Fastcomp	Binaryen
 C/C++ ===> LLVM IR ===> asm.js ===> wasm
 ```
 
 ## wasm的教程
 
-https://segmentfault.com/a/1190000008402872
-
-https://blog.csdn.net/TurkeyCock/article/details/83317935
-
-https://www.jianshu.com/p/1fd5496a0971?utm_source=oschina-app
-
-https://www.jianshu.com/p/0bc430ef612d?from=groupmessage
-
-https://zhuanlan.zhihu.com/p/42955781
+> 参考文章：
+>
+> https://segmentfault.com/a/1190000008402872
+>
+> https://blog.csdn.net/TurkeyCock/article/details/83317935
+>
+> https://www.jianshu.com/p/1fd5496a0971?utm_source=oschina-app
+>
+> https://www.jianshu.com/p/0bc430ef612d?from=groupmessage
+>
+> https://zhuanlan.zhihu.com/p/42955781
 
 1. 安装emsdk的依赖
 
