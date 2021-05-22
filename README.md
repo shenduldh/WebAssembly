@@ -173,7 +173,7 @@ loadWebAssembly('path/to/source.wasm', imports)
 
 9. 环境配置（给shell添加conda命令）：在PATH中添加Anaconda中Scripts目录的路径。
 
-   > 在在PATH中添加Anaconda目录的路径可以使得不在conda环境下也可以使用python命令。
+   > 在PATH中添加Anaconda目录的路径可以使得不在conda环境下也可以使用python命令。
    >
    > PATH就是用于告诉命令对应的执行程序要到哪里去找。
 
